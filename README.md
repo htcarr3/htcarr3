@@ -84,7 +84,6 @@ Feel free to reach out if you want to chat about building products with Rails.
 
 ### ⚡ Quick Bits
 - Location: Asheville, NC (Eastern Time, US)
-- Favorite Stack: Rails + Hotwire = fast ideas → shipped value
 
 ---
 
