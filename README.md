@@ -2,8 +2,8 @@
 
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Thomas 👋</h1>
-<h3 align="center">Product Engineer • Shipping Rails + AI products</h3>
-<p align="center"><em>Building resilient, product-focused Rails applications with pragmatic iteration.</em></p>
+<h3 align="center">Product Engineer</h3>
+<p align="center"><em>Shipping Rails + AI products</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/htcarr3/">
