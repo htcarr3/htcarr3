@@ -1,93 +1,133 @@
 <!-- Profile README for @htcarr3 -->
 
 <!-- Hero Section -->
-<h1 align="center">Hi, I'm Thomas 👋</h1>
-<h3 align="center">Product Engineer</h3>
-<p align="center"><em>Shipping Rails + AI products</em></p>
+<h1 align="center">Thomas Carr</h1>
+<h3 align="center">Founding Product Engineer at CorePilot | Rails + AI Speaker</h3>
+<p align="center"><em>Building AI-powered products with Ruby on Rails. Speaking about what I learn.</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/htcarr3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Thomas%20Carr-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/htcarr3?tab=followers">
-    <img src="https://img.shields.io/github/followers/htcarr3?label=Followers&style=flat" alt="Followers">
-  </a>
-  <a href="https://github.com/htcarr3">
-    <img src="https://komarev.com/ghpvc/?username=htcarr3&style=flat&color=blue" alt="Profile Views">
+  <a href="https://www.rubyevents.org/profiles/htcarr3">
+    <img src="https://img.shields.io/badge/RubyEvents-Watch_Talks-CC342D?style=flat&logo=ruby" alt="Ruby Events">
   </a>
 </p>
 
 ---
 
-### 🚀 What I’m Building
-For the past two years I’ve been a Founding Product Engineer focused on building and scaling <a href="https://www.corepilotcloud.com" target="_blank"><strong>CorePilot</strong></a> — an AI-powered ERP for the aviation aftermarket. My role spans:
-- Product strategy & technical architecture
-- Rapid iteration using Rails + Hotwire
-- Data modeling & performance tuning in PostgreSQL
+### 🎤 Conference Speaking
+
+I speak at Ruby conferences about practical AI integration and emerging technologies.
+
+| Talk | Conference | Date |
+|------|------------|------|
+| **The State of the Ruby AI Toolbox** | [XO Ruby New Orleans](https://www.xoruby.com/) | September 2025 |
+| **Digital Identity: How I Learned to Stop Worrying and Love Web3** | [Blue Ridge Ruby](https://blueridgeruby.com/) | May 2023 |
+
+<p align="center">
+  <a href="https://www.rubyevents.org/profiles/htcarr3">
+    <strong>📺 Watch all my talks on RubyEvents.org</strong>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Core Tech & Tooling
-| Area | Stack / Tools |
-| ---- | ------------- |
-| Backend | Ruby on Rails (API + full-stack), Sidekiq |
-| Frontend Delivery | Hotwire (Turbo + Stimulus) |
-| Data | PostgreSQL |
-| Caching & Realtime | Redis |
-| Cloud & Ops | Heroku, Render, Digital Ocean, AWS |
-| Monitoring | Appsignal |
-| Collaboration | Product-minded approach, tight feedback cycles |
+### 🛠️ Open Source Projects
+
+Tools I'm building at the intersection of Rails and AI:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/protocollar/claude-explorer-web">Claude Explorer Web</a></h4>
+      <p>Rails 8.1 app to visualize Claude Code conversation history. Parses JSONL files, shows tool analytics, tracks agent subprocesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rails_8.1-CC0000?style=flat&logo=rubyonrails&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hotwire-CA2E2A?style=flat" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/htcarr3/rails_llm_playground">Rails LLM Playground</a></h4>
+      <p>Demo app for my XO Ruby talk. Explores RubyLLM, Raix, and Raif Engine patterns for LLM integration in Rails.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rails_8.0-CC0000?style=flat&logo=rubyonrails&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solid_Queue-4A4A4A?style=flat" />
+        <img src="https://img.shields.io/badge/Hotwire-CA2E2A?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>📚 More Projects</summary>
+
+- **[Digital Identity BRR 2023](https://github.com/htcarr3/digital-identity-brr2023)** — Slides and resources from my Blue Ridge Ruby talk on W3C DIDs and Verifiable Credentials
+
+</details>
+
+---
+
+### 🚀 Current Role: CorePilot
+
+Founding Product Engineer at [CorePilot](https://www.corepilotcloud.com) — an AI-powered ERP for the aviation aftermarket (since Nov 2023). I own product development, building with Rails + Hotwire for rapid iteration without SPA complexity. Focus areas: clean domain modeling, developer velocity, and shipping with confidence.
+
+---
+
+### ⚙️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Hotwire-CA2E2A?logo=ruby&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Sidekiq-B1003E?logo=sidekiq&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
 </p>
 
----
-
-### 📌 Highlight: CorePilot
-Why it matters:
-- Focus on reliability, developer velocity, and clean domain modeling
-- Lean stack: Rails + Hotwire for speed without SPA complexity
-- Enough test coverage to ship with confidence
+**5+ years** shipping production Rails apps. SAFe 6 PO/PM & Scrum Master certified.
 
 ---
 
 ### 🤝 How I Work
-- Product-first engineering: start with the user problem, ship iteratively.
-- Pragmatic over hype: proven fundamentals > unnecessary abstraction.
-- Clear communication & tight feedback loops.
+
+- **Product-first**: Start with the user problem, ship iteratively
+- **Pragmatic**: Proven fundamentals over unnecessary abstraction
+- **Communicative**: Clear writing, tight feedback loops, async-friendly
 
 ---
 
-### 🌱 Currently Exploring
-- AI Agent workflows for coding
-- Innovative UX for LLM integrations
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=htcarr3&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htcarr3&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🧩 Looking For
-- Collaboration on lean Rails + AI products
-- Conversations around scaling product-engineering teams
-- Happy to discuss mentoring, open source, advisory roles
+### 💬 Let's Connect
 
----
+I'm always happy to chat about:
+- Building lean Rails + AI products
+- Conference speaking and the Ruby community
+- Mentoring, open source, or advisory opportunities
 
-### 💬 Let’s Connect
-- LinkedIn: <a href="https://www.linkedin.com/in/htcarr3/">linkedin.com/in/htcarr3</a>
+**Based in Asheville, NC** (Eastern Time)
 
-Feel free to reach out if you want to chat about building products with Rails.
-
----
-
-### ⚡ Quick Bits
-- Location: Asheville, NC (Eastern Time, US)
+<p align="center">
+  <a href="https://www.linkedin.com/in/htcarr3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <sub>Thanks for stopping by — feel free to star something or just say hi!</sub><br/>
-  <sub>Built with ☕, friends, and a love for pragmatic product engineering.</sub>
+  <sub>Thanks for visiting! Feel free to star a repo or say hello.</sub>
 </p>
