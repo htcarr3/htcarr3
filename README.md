@@ -6,12 +6,8 @@
 <p align="center"><em>Building AI-powered products with Ruby on Rails. Speaking about what I learn.</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/htcarr3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://www.rubyevents.org/profiles/htcarr3">
-    <img src="https://img.shields.io/badge/RubyEvents-Watch_Talks-CC342D?style=flat&logo=ruby" alt="Ruby Events">
-  </a>
+  <a href="https://www.linkedin.com/in/htcarr3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.rubyevents.org/profiles/htcarr3"><img src="https://img.shields.io/badge/RubyEvents-Watch_Talks-CC342D?style=flat&logo=ruby" alt="Ruby Events"></a>
 </p>
 
 ---
@@ -96,18 +92,6 @@ Founding Product Engineer at [CorePilot](https://www.corepilotcloud.com) — an 
 - **Product-first**: Start with the user problem, ship iteratively
 - **Pragmatic**: Proven fundamentals over unnecessary abstraction
 - **Communicative**: Clear writing, tight feedback loops, async-friendly
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htcarr3&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htcarr3&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
