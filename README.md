@@ -12,13 +12,14 @@
 
 ---
 
-### 🎤 Conference Speaking
+### 🎤 Conference Speaking & Podcasts
 
 I speak at Ruby conferences about practical AI integration and emerging technologies.
 
-| Talk | Conference | Date |
+| Talk | Event | Date |
 |------|------------|------|
 | **The State of the Ruby AI Toolbox** | [XO Ruby New Orleans](https://www.xoruby.com/) | September 2025 |
+| **Episode 26 - Thomas Carr** | [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/episodes/episode-26-thomas-carr/) | August 2023 |
 | **Digital Identity: How I Learned to Stop Worrying and Love Web3** | [Blue Ridge Ruby](https://blueridgeruby.com/) | May 2023 |
 
 <p align="center">
