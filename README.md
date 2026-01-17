@@ -59,9 +59,9 @@ Tools I'm building at the intersection of Rails and AI:
 
 <details>
 <summary>📚 More Projects</summary>
-
+  
+- **[Claude Agent SDK Ruby Gem](https://github.com/protocollar/claude_agent-ruby)** — Ruby bindings for interacting with the Claude Agent SDK
 - **[Digital Identity BRR 2023](https://github.com/htcarr3/digital-identity-brr2023)** — Slides and resources from my Blue Ridge Ruby talk on W3C DIDs and Verifiable Credentials
-
 </details>
 
 ---
