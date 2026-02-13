@@ -3,8 +3,6 @@
 <!-- Hero Section -->
 <h1 align="center">Thomas Carr</h1>
 <h3 align="center">Founding Product Engineer at CorePilot | Rails + AI Speaker</h3>
-<p align="center"><em>Building AI-powered products with Ruby on Rails. Speaking about what I learn.</em></p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/htcarr3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
   <a href="https://www.rubyevents.org/profiles/htcarr3"><img src="https://img.shields.io/badge/RubyEvents-Watch_Talks-CC342D?style=flat&logo=ruby" alt="Ruby Events"></a>
