@@ -17,7 +17,7 @@
 I speak at Ruby conferences about practical AI integration and emerging technologies.
 
 | Talk | Event | Date |
-|------|------------|------|
+|------|-------|------|
 | **The State of the Ruby AI Toolbox** | [XO Ruby New Orleans](https://www.xoruby.com/) | September 2025 |
 | **Episode 26 - Thomas Carr** | [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/episodes/episode-26-thomas-carr/) | August 2023 |
 | **Digital Identity: How I Learned to Stop Worrying and Love Web3** | [Blue Ridge Ruby](https://blueridgeruby.com/) | May 2023 |
@@ -32,9 +32,29 @@ I speak at Ruby conferences about practical AI integration and emerging technolo
 
 ### 🛠️ Open Source Projects
 
-Tools I'm building at the intersection of Rails and AI:
+Tools I'm building for AI development and developer productivity:
 
 <table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/protocollar/claude_agent-ruby">Claude Agent Ruby</a></h4>
+      <p>Ruby gem for the Claude Agent SDK. Wraps the Claude Code CLI with one-shot queries and interactive bidirectional sessions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97706?style=flat" />
+        <img src="https://img.shields.io/badge/RubyGems-E9573F?style=flat&logo=rubygems&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/protocollar/fr8">fr8</a></h4>
+      <p>Git worktree workspace manager with a TUI dashboard. Isolated dev environments with per-workspace port ranges, database prefixes, and background sessions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bubble_Tea-FF75B5?style=flat" />
+        <img src="https://img.shields.io/badge/Git_Worktrees-F05032?style=flat&logo=git&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/protocollar/claude-explorer-web">Claude Explorer Web</a></h4>
@@ -59,9 +79,9 @@ Tools I'm building at the intersection of Rails and AI:
 
 <details>
 <summary>📚 More Projects</summary>
-  
-- **[Claude Agent SDK Ruby Gem](https://github.com/protocollar/claude_agent-ruby)** — Ruby bindings for interacting with the Claude Agent SDK
+
 - **[Digital Identity BRR 2023](https://github.com/htcarr3/digital-identity-brr2023)** — Slides and resources from my Blue Ridge Ruby talk on W3C DIDs and Verifiable Credentials
+
 </details>
 
 ---
